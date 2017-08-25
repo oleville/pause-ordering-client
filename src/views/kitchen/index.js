@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 export const Kitchen = () => {
   return(
@@ -6,4 +6,4 @@ export const Kitchen = () => {
   )
 }
 
-export default Kitchen;
+export default Kitchen

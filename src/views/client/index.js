@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 export const Client = () => {
   return(
@@ -6,4 +6,4 @@ export const Client = () => {
   )
 }
 
-export default Client;
+export default Client

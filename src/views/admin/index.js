@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 export const Admin = () => {
   return(
@@ -6,4 +6,4 @@ export const Admin = () => {
   )
 }
 
-export default Admin;
+export default Admin
